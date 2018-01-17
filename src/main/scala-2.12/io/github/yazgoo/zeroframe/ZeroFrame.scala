@@ -1,4 +1,4 @@
-package org.yazgoo.zeroframe
+package io.github.yazgoo.zeroframe
 
 import scala.scalajs.js
 import scala.scalajs.js.annotation._
